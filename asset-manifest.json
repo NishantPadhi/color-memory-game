@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-memory-game/static/css/main.50a3bc20.css",
+    "main.js": "/color-memory-game/static/js/main.f9748eac.js",
+    "index.html": "/color-memory-game/index.html",
+    "main.50a3bc20.css.map": "/color-memory-game/static/css/main.50a3bc20.css.map",
+    "main.f9748eac.js.map": "/color-memory-game/static/js/main.f9748eac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a3bc20.css",
+    "static/js/main.f9748eac.js"
+  ]
+}
