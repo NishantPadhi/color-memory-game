@@ -26,3 +26,5 @@ At the end of the game, the user should be informed of the total number of round
 
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/c5d78c12-1b2b-47fc-814b-166b9eb458f8">
 
+Demo: https://nishantpadhi.github.io/color-memory-game/
+
