@@ -23,3 +23,6 @@ Round Tracking:
 
 Every pair selection (whether successful or unsuccessful) should count as one round.
 At the end of the game, the user should be informed of the total number of rounds taken to complete the game.
+
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/c5d78c12-1b2b-47fc-814b-166b9eb458f8">
+
